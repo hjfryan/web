@@ -1,3 +1,3 @@
 # web
 Newbie for studying web.
-htnl5+css+javascripe
+html5+css+javascripe
